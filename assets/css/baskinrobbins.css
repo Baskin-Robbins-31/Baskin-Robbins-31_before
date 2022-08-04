@@ -1118,7 +1118,7 @@ select::-ms-expand {
 	display: block;
 	width: 100%;
 	height: 100%;
-	background: url('') no-repeat;
+	background: url('./assets/images/common/logo_baskinrobbins.png') no-repeat;
 	text-indent: -9999em;
 }
 #header .sns,
@@ -1567,8 +1567,7 @@ select::-ms-expand {
 #br_main .flavor_month .top a {
 	height: 150px;
 	margin-bottom: 3px;
-	background: #f0dcb6 url('./assets/images/main/img_flaovr_month_top.png') 50% 0
-		no-repeat;
+	background: #f0dcb6 url('./upload/main/1715072715.jpg') 50% 0 no-repeat;
 }
 #br_main .flavor_month .flavor_banner {
 	position: absolute;
@@ -1579,8 +1578,7 @@ select::-ms-expand {
 }
 #br_main .flavor_month .flavor_banner a {
 	height: 854px;
-	background: #513529 url('./assets/images/main/img_flavor_month.png') 50% 0
-		no-repeat;
+	background: #513529 url('./upload/main/1715072776.jpg') 50% 0 no-repeat;
 }
 #br_main .flavor_month .flavor_banner a.on {
 	height: 0;
@@ -1609,27 +1607,27 @@ select::-ms-expand {
 }
 #br_main .banner_slide .banner_1 a {
 	background-color: #fed104;
-	background-image: url('./assets/images/main/banner/img_main_banner_1.jpg');
+	background-image: url('./upload/main/1643869369.png');
 }
 #br_main .banner_slide .banner_2 a {
 	background-color: #68d9d7;
-	background-image: url('./assets/images/main/banner/img_main_banner_2.jpg');
+	background-image: url('./upload/main/1643869369.png');
 }
 #br_main .banner_slide .banner_3 a {
 	background-color: #f6f6f6;
-	background-image: url('./assets/images/main/banner/img_main_banner_3.jpg');
+	background-image: url('./upload/main/1643869369.png');
 }
 #br_main .banner_slide .banner_4 a {
 	background-color: #eedfe2;
-	background-image: url('./assets/images/main/banner/img_main_banner_4.jpg');
+	background-image: url('./upload/main/1643869369.png');
 }
 #br_main .banner_slide .banner_5 a {
 	background-color: #ff70a8;
-	background-image: url('./assets/images/main/banner/img_main_banner_5.jpg');
+	background-image: url('./upload/main/1643869369.png');
 }
 #br_main .banner_slide .banner_6 a {
 	background-color: #91c534;
-	background-image: url('./assets/images/main/banner/img_main_banner_6.jpg');
+	background-image: url('./upload/main/1643869369.png');
 }
 #br_main .banner_slide .dslide {
 	margin-top: -40px;
